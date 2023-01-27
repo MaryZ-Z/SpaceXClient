@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestCaseCI</string>
+    <string name="unknown_error_message_title">Что-то пошло не так</string>
+    <string name="unknown_error_message">Попробуйте ещё раз</string>
+    <string name="refresh_button">Обновить</string>
+    <string name="date_of_launch">Дата запуска: %s</string>>
+    <string name="flights_number">Кол-во использований 1-й ступени: %s</string>
+    <string name="status">Статус миссии: %s</string>
+    <string name="details">Детали: %s</string>
+    <string name="crew_list">Члены экипажа</string>
+    <string name="no_data">Нет данных</string>
+</resources>
