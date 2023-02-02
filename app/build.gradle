@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.testcaseci'
+    namespace 'com.example.spacexclient'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.testcaseci"
+        applicationId "com.example.spacexclient"
         minSdk 22
         targetSdk 33
         versionCode 1

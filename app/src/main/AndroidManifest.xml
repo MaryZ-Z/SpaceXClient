@@ -13,13 +13,13 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.TestCaseCI"
+        android:theme="@style/Theme.SpaceXClient"
         tools:targetApi="31">
         <activity
             android:name=".ui.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.TestCaseCI">
+            android:theme="@style/Theme.SpaceXClient">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
